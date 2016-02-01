@@ -1,2 +1,2 @@
 # COM2030-Data
-[link to Google!](http://google.com)
+[Oscars Infographic](http://www.slow-journalism.com/oscars-infographic)
