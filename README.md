@@ -1,2 +1,2 @@
 # COM2030-Data
-[Tweetping Pro](http://tweetping.net/)
+To see the maps of the Twitter feed in real time click [Tweetping Pro](http://tweetping.net/)
